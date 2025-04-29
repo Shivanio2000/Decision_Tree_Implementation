@@ -16,4 +16,4 @@
 
 #OUTPUT
 
-![Image](https://github.com/user-attachments/assets/85004414-55a2-4c00-b262-87e2ca77a820)
+https://github.com/user-attachments/assets/85004414-55a2-4c00-b262-87e2ca77a820
